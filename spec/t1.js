@@ -6,4 +6,10 @@ describe("A suite is just a function", function() {
   
       expect(a).toBe(true);
     });
+
+    it("fail spec", function() {
+        a = true;
+    
+        expect(a).toBe(false);
+      });
   });
