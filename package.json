@@ -1,0 +1,23 @@
+{
+  "name": "test-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusbarcenilla/test-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusbarcenilla/test-jenkins/issues"
+  },
+  "homepage": "https://github.com/jesusbarcenilla/test-jenkins#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
